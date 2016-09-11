@@ -1,1 +1,1 @@
-#sname-net prokect
+#snam-net project
